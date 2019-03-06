@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "gulp": "gulp"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-typetalk": "^0.1.1"
+    }
+}

@@ -1,7 +1,7 @@
 gulp-typetalk-example
 ===
 
-```
+```shell
 $ git clone git@github.com:is2ei/gulp-typetalk-example.git
 $ cd gulp-typetalk-example
 $ npm i
